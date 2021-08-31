@@ -1,0 +1,2 @@
+CMSI 186 Lab #4
+In this lab I created a simulation that models a soccer game. There is one player and three enemies that try to prevent it from reaching the goal. The user can input the parameters for speed, radius and friction.

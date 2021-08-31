@@ -1,0 +1,2 @@
+CMSI 186 Lab #3
+In this lab I worked on three Java programs that allow the user to interact with the console in a dice game. They can use commands to determine how many dice and which die will be rolled.

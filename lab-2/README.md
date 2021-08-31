@@ -1,0 +1,2 @@
+CMSI 186 Lab #2
+In this lab, I created a program that will estimate Pi from an inputted random number of darts that are thrown at a board. The other program will estimate the probability that a certain number of people have a shared birthday.  
