@@ -1,1 +1,1 @@
-# cmsi-186
+# cmsi-186 Programming Laboratory
